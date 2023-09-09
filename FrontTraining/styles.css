@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: black;
+  height: 100vh;
+}
+.header {
+  height: 10%;
+  /* margin: 0 0 0 10%; */
+  margin: 0 auto;
+  background-color: red;
+}
+.cube {
+  background-color: green;
+  max-width: 10%;
+  min-height: 50%;
+}

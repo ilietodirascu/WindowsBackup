@@ -1,0 +1,16 @@
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.csproj.AssemblyReference.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.AssemblyInfoInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.AssemblyInfo.cs
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.csproj.CoreCompileInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\bin\Debug\net5.0\RunningSum.exe
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\bin\Debug\net5.0\RunningSum.deps.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\bin\Debug\net5.0\RunningSum.runtimeconfig.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\bin\Debug\net5.0\RunningSum.runtimeconfig.dev.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\bin\Debug\net5.0\RunningSum.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\bin\Debug\net5.0\ref\RunningSum.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\bin\Debug\net5.0\RunningSum.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\ref\RunningSum.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\LeetCode\RunningSum\RunningSum\obj\Debug\net5.0\RunningSum.genruntimeconfig.cache

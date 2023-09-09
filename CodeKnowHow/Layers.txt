@@ -1,0 +1,8 @@
+1.API - contains the controllers,middleware,services,startup.cs,
+extension methods
+2.Application - Contains folders named after your entities 
+inside which are needed Dtos, CRUD operations,etc.
+3.Domain - the entities
+4.Infrastructure - 3rd party services that need to communicate
+with our API
+5.Persistance - Migrations and DataContext

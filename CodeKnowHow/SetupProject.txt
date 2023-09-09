@@ -1,0 +1,16 @@
+dotnet new sln
+dotnet new webapi -n API
+dotnet new classlib -n Application
+dotnet new classlib -n Domain
+dotnet new classlib -n Persistance
+
+dotnet sln add API/API.csproj(or just press tab after /)
+dotnet sln add Persistance
+dotnet sln add Domain
+
+cd API
+
+dotnet add reference ../Application/tab
+cd ..
+
+More info section 2

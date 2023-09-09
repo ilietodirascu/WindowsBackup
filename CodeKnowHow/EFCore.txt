@@ -1,0 +1,11 @@
+1.Check if dotnet-ef is install 
+   dotnet tool list -g
+2.Either install or update dotnet-ef
+   dotnet tool install/update --global dotnet-ef
+3.Add to API a Microsoft.EntityFrameworkCore.Design 
+nuget reference
+4.Add an initial migration 
+  dotnet ef migrations add InitialCreate -s API -p Persistence
+s stands for switch the first is for specifying the startup
+project and the second is for the project where the datacontext
+is.

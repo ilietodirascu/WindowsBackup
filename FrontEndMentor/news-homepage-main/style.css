@@ -1,0 +1,160 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 15px;
+  font-family: "Inter", sans-serif;
+}
+
+.primary__header {
+  font-size: 3rem;
+}
+
+.primary__info > .paragraph {
+  margin: 1em 0;
+}
+
+.section + .section {
+  margin-top: 4em;
+}
+
+.primary__button {
+  padding: 1em 2em;
+  background-color: hsl(5, 85%, 63%);
+  border: none;
+  color: hsl(36, 100%, 99%);
+  text-transform: uppercase;
+  letter-spacing: 0.25rem;
+  font-weight: 800;
+}
+
+img {
+  max-width: 100%;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 2em;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  gap: 2em;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+}
+
+.article {
+  max-width: 500px;
+}
+
+.article__info {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.article__image {
+  width: 30%;
+}
+
+.top__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+.web3__image__desktop {
+  display: none;
+}
+.secondary__container {
+  background-color: hsl(240, 100%, 5%);
+  color: hsl(36, 100%, 99%);
+}
+.paragraph {
+  color: hsl(236, 13%, 42%);
+}
+.article__number {
+  color: hsl(233, 8%, 79%);
+}
+
+.secondary__header {
+  color: hsl(35, 77%, 62%);
+}
+.wrapper {
+  width: 90%;
+  margin: 0 auto;
+  padding: 1em 0;
+}
+.wrapper > :not(:last-child) {
+  margin-bottom: 1em;
+}
+
+.line {
+  height: 1px;
+  border: 0;
+  color: hsl(236, 13%, 42%);
+  background-color: hsl(236, 13%, 42%);
+}
+
+.news__title {
+  margin-bottom: 1em;
+}
+
+.section__wrapper {
+  margin-bottom: 4em;
+}
+
+@media (min-width: 600px) {
+  .section__wrapper {
+    display: flex;
+    gap: 2em;
+  }
+  .primary__info__container {
+    display: flex;
+  }
+  .primary__header {
+    width: 100%;
+  }
+  .primary__info {
+    width: 100%;
+  }
+  .primary {
+    width: 100%;
+  }
+  .secondary__new {
+    width: 100%;
+  }
+  .web3__image__desktop {
+    display: block;
+  }
+  .web3__image__mobile {
+    display: none;
+  }
+  .secondary__new.section {
+    margin-top: 0;
+  }
+  .secondary__container {
+    height: 100%;
+  }
+  .wrapper {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .top__wrapper {
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+  }
+}

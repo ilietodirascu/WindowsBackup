@@ -1,0 +1,2 @@
+In order to avoid having to undo changes to node modules
+insteam of using npm i use npm ci

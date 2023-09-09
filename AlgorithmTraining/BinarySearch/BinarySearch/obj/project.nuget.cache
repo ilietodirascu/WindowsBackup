@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PNnZr1XAs/NXJRjUqbpUzcDyRyJecn79NH/dFX2cizwCklbaP0Uk1/z6JLKhxgGJcpFaX9F6t+cjhOo9DA+Z0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilie.todirascu\\OneDrive - Amdaris\\Desktop\\Practice\\AlgorithmTraining\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilie.todirascu\\.nuget\\packages\\mstest.testframework\\2.2.10\\mstest.testframework.2.2.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.exe
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.deps.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.runtimeconfig.dev.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\bin\Debug\net5.0\ref\AdapterPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\bin\Debug\net5.0\AdapterPattern.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.AssemblyReference.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\ref\AdapterPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\AdapterPattern\AdapterPattern\obj\Debug\net5.0\AdapterPattern.genruntimeconfig.cache

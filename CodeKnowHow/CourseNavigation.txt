@@ -1,0 +1,6 @@
+1.Creating the .Net projects and references - Section 2
+2.Configuring the startup class - Section 2, video 11
+covers how to configure the app to inject the DbContext
+and how to add connection string to appsettings.
+3.AutoMigrate - section 2, video 13.
+4. Seeding the DB - section 2, video 14

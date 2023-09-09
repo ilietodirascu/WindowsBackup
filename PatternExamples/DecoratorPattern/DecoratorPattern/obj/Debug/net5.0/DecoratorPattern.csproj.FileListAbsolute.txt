@@ -1,0 +1,16 @@
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.exe
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.deps.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.runtimeconfig.dev.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\ref\DecoratorPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\bin\Debug\net5.0\DecoratorPattern.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\ref\DecoratorPattern.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\PatternExamples\DecoratorPattern\DecoratorPattern\obj\Debug\net5.0\DecoratorPattern.genruntimeconfig.cache

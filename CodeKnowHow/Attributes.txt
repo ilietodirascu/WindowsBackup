@@ -1,0 +1,12 @@
+[Route("[controller]")] 
+this attribute will take the first part of the controller class
+without the word controller.
+Example:
+WeatherForecastController
+the route would be /api/WeatherForeacast
+[HttpGet("{id}")]
+("{id}") is a root parameter
+example:
+public async Task<ActionResult<Activity>> GetActivity(Guid id)
+the url will be like 
+/api/activities/id

@@ -1,0 +1,16 @@
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\bin\Debug\net5.0\AsyncStuff.exe
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\bin\Debug\net5.0\AsyncStuff.deps.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\bin\Debug\net5.0\AsyncStuff.runtimeconfig.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\bin\Debug\net5.0\AsyncStuff.runtimeconfig.dev.json
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\bin\Debug\net5.0\AsyncStuff.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\bin\Debug\net5.0\ref\AsyncStuff.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\bin\Debug\net5.0\AsyncStuff.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.csproj.AssemblyReference.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.AssemblyInfoInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.AssemblyInfo.cs
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.csproj.CoreCompileInputs.cache
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\ref\AsyncStuff.dll
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.pdb
+C:\Users\ilie.todirascu\OneDrive - Amdaris\Desktop\Practice\AsyncStuff\AsyncStuff\obj\Debug\net5.0\AsyncStuff.genruntimeconfig.cache
